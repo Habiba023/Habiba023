@@ -4,8 +4,7 @@
 <p><em>Study at <a href="https://uog.edu.pk/">UOG SE</a><img src="https://media.giphy.com/media/XbxTN4g1k2EeYvFe5e/giphy.gif" width="30"> </br>
 
 </em></p>
-[![GitHub Habiba](https://img.shields.io/github/followers/Habiba023?label=follow&style=social)](https://github.com/Habiba023)
-<img src="https://komarev.com/ghpvc/?username=your-github-Habiba023&style=flat-square&color=blue" alt=""/>
+[![GitHub Habiba](https://img.shields.io/github/followers/Habiba023?label=follow&style=social)](https://github.com/Habiba023)<img src="https://komarev.com/ghpvc/?username=your-github-Habiba023&style=flat-square&color=blue" alt=""/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
